@@ -14,7 +14,7 @@ Follow the instructions below to install the integration in the Wayfinder Kubern
 
 For containerized environments, the best way to use this integration with the Docker Agent is to build the Agent with the Wayfinder integration installed. 
 
-Prerequisites:
+### Prerequisites:
 
 A network policy must be configured to allow the Datadog Agent to connect to Wayfinder components. The network policy below assumes Datadog is deployed to the Datadog namespace and Wayfinder is deployed to the Wayfinder namespace.
 
